@@ -47,26 +47,7 @@ def getXlsx():
     # for i in list01:
     #     if i not in newList:
     #         newList.append(i)
-    # # 创建新字典
-    # newDict = {}
-    # for i in newList:
-    #     newDict[i] = list01.count(i)
-    # # print(newDict)
-    # value_list = []
-    # key_list = []
-    # for key in newDict:
-    #     key_list.append(key)
-    # # print(key_list)
-    # for i in range(len(key_list)):
-    #     value_list.append(newDict[key_list[i]])
-    # # print(value_list)
-    # '''
-    # # 降序排列
-    # num_list = sorted(value_list, reverse=True)
-    # print(num_list)
-    # return name_list, num_list
-    # '''
-    # return key_list, value_list
+
 
 
 # 输入喜爱项目 形成偏好向量
